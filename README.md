@@ -1,4 +1,4 @@
-# Stress–Energy Cycle Logger
+# Stress–Energy Logger
 A Raspberry Pi 5 Power-Measurement Experiment using `vcgencmd` and `stress-ng`
 
 ---
