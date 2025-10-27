@@ -158,4 +158,3 @@ Zealand Institute of Business and Technology
 
 License
 
-This project is open-source and released under the MIT License.
